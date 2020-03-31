@@ -25,6 +25,7 @@ body{
 
 .navbar-brand{
   font-weight: 700;
+  padding-top: 1rem;
 }
 
 .navbar-nav li{
